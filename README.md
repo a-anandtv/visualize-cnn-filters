@@ -3,12 +3,13 @@ Visualizing learnt filters and feature maps from a pre-fit CNN. VGG16 pretrained
 
 ### Visualization samples
 Testing on a bird image
-![Bird image](./test_data/bird.jpeg)
+
+<img src="https://github.com/a-anandtv/visualize-cnn-filters/blob/main/test_data/bird.jpeg" width="40%">
 ![Filters learnt for bird image](./Resources/bird_filters.png)
 
 Testing on a doll image
-![Hiccup image](./test_data/hiccup.jpg)
+<img src="https://github.com/a-anandtv/visualize-cnn-filters/blob/main/test_data/hiccup.jpg" width="30%">
 ![Filters learnt for doll image](./Resources/doll_filters.png)
 
 ### Reference
-![Click here](machinelearningmastery.com)
+[Click here](machinelearningmastery.com)
